@@ -1,8 +1,7 @@
-![Screenshot (672)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/96e9548b-aefe-4d49-afd5-e8768855b44e)
-![Screenshot (674)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/33717eaa-3e17-4730-8a1b-06125112360a)
-![Screenshot (675)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/6c7aa5f6-6fc8-4c83-8860-bdab666b5c1a)
-![Screenshot (676)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/189b4d13-942d-42d9-9899-d3c14baa0840)
-
+![Screenshot (672)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/b33d1aea-0667-40e9-9998-734065cfb8a9)
+![Screenshot (673)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/6bd47a8a-8701-494c-b8af-3fc03dac6724)
+![Screenshot (675)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/321b71f9-e16e-4de6-be7a-21eac978e1e8)
+![Screenshot (676)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/3507a2e8-88b3-4a75-8ec4-6e89de59ee2c)
 
 # Getting Started with Create React App
 
