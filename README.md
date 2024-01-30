@@ -1,5 +1,4 @@
 ![Screenshot (672)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/96e9548b-aefe-4d49-afd5-e8768855b44e)
-![Screenshot (673)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/5ba8aa80-cbe1-4673-981b-439f11700c66)
 ![Screenshot (674)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/33717eaa-3e17-4730-8a1b-06125112360a)
 ![Screenshot (675)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/6c7aa5f6-6fc8-4c83-8860-bdab666b5c1a)
 ![Screenshot (676)](https://github.com/narendrajethi220/E-Shopping-Cart/assets/55850738/189b4d13-942d-42d9-9899-d3c14baa0840)
