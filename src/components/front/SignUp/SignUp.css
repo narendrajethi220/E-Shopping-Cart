@@ -1,0 +1,12 @@
+.signup {
+  display: flex;
+  margin: 0 2rem;
+  justify-content: center;
+  align-items: center;
+  background-color: cornflowerblue;
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  height: 100px;
+  color: black;
+}
